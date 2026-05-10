@@ -1,0 +1,10 @@
+{
+    "TestData1": {
+        "word1": "Installation",
+        "word2": "Locator"
+    },
+    "TestData2": {
+        "word1": "Pages",
+        "word2": "Frame"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "firstname": "Mark Updated",
+    "lastname": "Wolf Updated", 
+    "totalprice": 999,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2020-01-01",
+        "checkout": "2021-01-01"
+    },
+    "additionalneeds": "super bowls updated"
+}
