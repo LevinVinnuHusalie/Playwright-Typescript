@@ -1,3 +1,3 @@
 ﻿# Playwright-Typescript
 
-Updated readme file on the first branch again from github directly
+Updated readme file to remove previous changes
