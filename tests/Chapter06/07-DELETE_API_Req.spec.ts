@@ -10,7 +10,7 @@ test.use({
     baseURL: process.env.BASE_URL,
 });
 
-test("Create a DELETE request for booking ID", async ({ request }) => {
+test("Create a DELETE request for booking ID", { tag: ["@PlaywrightWithJenkins"] }, async ({ request }) => {
     const firstName = faker.person.firstName();
     const lastName = faker.person.lastName();
     const price = faker.number.int({ min: 100, max: 1000 });
